@@ -1,0 +1,5 @@
+SUCCESS - Test maven-demo-project-test-suite-maven-demo-projectFlowTest finished Successfully.
+
+===================================================================================
+Number of tests run: 1 - Failed: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 0.063ms
+===================================================================================
